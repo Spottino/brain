@@ -1,4 +1,2 @@
-# brain-
-attivatore dei prompt
-per ogni prompt devo caricare i primi due md (identity e constraints)
- 
+# brain
+per prompt devo caricare i primi due md (identity e constraints)
